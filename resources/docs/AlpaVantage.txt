@@ -1,0 +1,14 @@
+
+    ALPHA VANTAGE
+
+    AlphaVantage is returning current stock price data.
+    Free: (5 API requests per minute; 500 API requests per day) - https://www.alphavantage.co/premium/
+    Premium:
+        30 API requests per minute: 29.99/month
+        120 API requests per minute: 49.99/month
+        .
+        .
+        .
+        24/7 premium tech. support
+        Cancel anytime
+        No hidden costs. No surprise overage charges.

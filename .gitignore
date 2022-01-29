@@ -1,0 +1,9 @@
+/.idea/
+/pytest_cache/
+/enu/
+/play_ground/
+/resources/screen_shots/
+/resources/docs/~*.docx
+/resources/docs/~*.tmp
+/resources/db_schema/stock_exchange.mwb.bak
+/~*.xlsx

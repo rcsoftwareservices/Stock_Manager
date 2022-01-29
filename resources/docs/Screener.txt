@@ -1,0 +1,9 @@
+
+    SCREENER
+
+    1. filter sector stocks by lowest PE Ratio.
+    2. filter selected sector stocks by score (sum of metric weights)
+
+    Warren Buffett's criteria is that a company has a "wide economic moat,"
+
+    SECTORS: utilities, technology, energy, healthcare, communication_services, financial_services
