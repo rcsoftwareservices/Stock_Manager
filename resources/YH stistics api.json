@@ -1,0 +1,174 @@
+{
+  "quoteSummary": {
+    "result": [
+      {
+        "defaultKeyStatistics": {
+          "maxAge": 1,
+          "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+          },
+          "enterpriseValue": {
+            "raw": 35182493696,
+            "fmt": "35.18B",
+            "longFmt": "35,182,493,696"
+          },
+          "forwardPE": {
+            "raw": 9.197619,
+            "fmt": "9.20"
+          },
+          "profitMargins": {
+            "raw": 0.06382,
+            "fmt": "6.38%"
+          },
+          "floatShares": {
+            "raw": 1293278878,
+            "fmt": "1.29B",
+            "longFmt": "1,293,278,878"
+          },
+          "sharesOutstanding": {
+            "raw": 1299670016,
+            "fmt": "1.3B",
+            "longFmt": "1,299,670,016"
+          },
+          "sharesShort": {
+            "raw": 24179637,
+            "fmt": "24.18M",
+            "longFmt": "24,179,637"
+          },
+          "sharesShortPriorMonth": {
+            "raw": 24133420,
+            "fmt": "24.13M",
+            "longFmt": "24,133,420"
+          },
+          "sharesShortPreviousMonthDate": {
+            "raw": 1718323200,
+            "fmt": "2024-06-14"
+          },
+          "dateShortInterest": {
+            "raw": 1721001600,
+            "fmt": "2024-07-15"
+          },
+          "sharesPercentSharesOut": {
+            "raw": 0.0186,
+            "fmt": "1.86%"
+          },
+          "heldPercentInsiders": {
+            "raw": 0.00558,
+            "fmt": "0.56%"
+          },
+          "heldPercentInstitutions": {
+            "raw": 0.8542,
+            "fmt": "85.42%"
+          },
+          "shortRatio": {
+            "raw": 1.3,
+            "fmt": "1.3"
+          },
+          "shortPercentOfFloat": {
+            "raw": 0.0212,
+            "fmt": "2.12%"
+          },
+          "beta": {
+            "raw": 1.211,
+            "fmt": "1.21"
+          },
+          "impliedSharesOutstanding": {
+            "raw": 1299670016,
+            "fmt": "1.3B",
+            "longFmt": "1,299,670,016"
+          },
+          "morningStarOverallRating": {},
+          "morningStarRiskRating": {},
+          "category": null,
+          "bookValue": {
+            "raw": 16.704,
+            "fmt": "16.70"
+          },
+          "priceToBook": {
+            "raw": 1.1563098,
+            "fmt": "1.16"
+          },
+          "annualReportExpenseRatio": {},
+          "ytdReturn": {},
+          "beta3Year": {},
+          "totalAssets": {},
+          "yield": {},
+          "fundFamily": null,
+          "fundInceptionDate": {},
+          "legalType": null,
+          "threeYearAverageReturn": {},
+          "fiveYearAverageReturn": {},
+          "priceToSalesTrailing12Months": {},
+          "lastFiscalYearEnd": {
+            "raw": 1698710400,
+            "fmt": "2023-10-31"
+          },
+          "nextFiscalYearEnd": {
+            "raw": 1730332800,
+            "fmt": "2024-10-31"
+          },
+          "mostRecentQuarter": {
+            "raw": 1714435200,
+            "fmt": "2024-04-30"
+          },
+          "earningsQuarterlyGrowth": {
+            "raw": -0.249,
+            "fmt": "-24.90%"
+          },
+          "revenueQuarterlyGrowth": {},
+          "netIncomeToCommon": {
+            "raw": 1807000064,
+            "fmt": "1.81B",
+            "longFmt": "1,807,000,064"
+          },
+          "trailingEps": {
+            "raw": 1.37,
+            "fmt": "1.37"
+          },
+          "forwardEps": {
+            "raw": 2.1,
+            "fmt": "2.1"
+          },
+          "pegRatio": {
+            "raw": 2.74,
+            "fmt": "2.74"
+          },
+          "lastSplitFactor": "1289:1000",
+          "lastSplitDate": {
+            "raw": 1504224000,
+            "fmt": "2017-09-01"
+          },
+          "enterpriseToRevenue": {
+            "raw": 1.243,
+            "fmt": "1.24"
+          },
+          "enterpriseToEbitda": {
+            "raw": 7.19,
+            "fmt": "7.19"
+          },
+          "52WeekChange": {
+            "raw": 0.14953816,
+            "fmt": "14.95%"
+          },
+          "SandP52WeekChange": {
+            "raw": 0.22666264,
+            "fmt": "22.67%"
+          },
+          "lastDividendValue": {
+            "raw": 0.13,
+            "fmt": "0.13"
+          },
+          "lastDividendDate": {
+            "raw": 1718668800,
+            "fmt": "2024-06-18"
+          },
+          "lastCapGain": {},
+          "annualHoldingsTurnover": {}
+        }
+      }
+    ],
+    "error": null
+  }
+}
