@@ -1,0 +1,31 @@
+{
+  'currentQuarterEpsActual': 0.42,
+  'previousQuarterEpsActual': 0.48,
+  'freeCashFlow': 2112125056,
+  'currentPrice': 19.08,
+  'returnOnAssets': 0.02,
+  'debtToEquity': 52.34,
+  'returnOnEquity': 0.09,
+  'totalDebt': 11376000000,
+  'totalRevenue': 28312000512,
+  'revenuePerShare': 21.75,
+  'marketCap': 24797704192
+}
+
+{
+  'freeCashFlow': 2112125056,
+  'quickRatio': 0.43,
+  'debt_to_equity': 52.34,
+  'quick_ratio': 0.43,
+  'current_price': 19.08,
+  'currentRatio': 0.9,
+  'returnOnEquity': 0.09,
+  'returnOnAssets': 0.02,
+  'revenuePerShare': 21.75,
+  'payoutRatio': 0.36,
+  'dividendYield': 0.03,
+  'beta': 1.21,
+  'marketCap': 24797704192,
+  'trailingPE': 13.93,
+  'forward_pe': 9.09
+}
