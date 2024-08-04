@@ -1,0 +1,860 @@
+{
+  'quarterly': {
+    'timeseries': {
+      'result': [
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyOperatingCashFlow'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyOperatingCashFlow': [
+            {
+              'dataId': 26014,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 4953000000.0,
+                'fmt': '4.95B'
+              }
+            },
+            {
+              'dataId': 26014,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 1123000000.0,
+                'fmt': '1.12B'
+              }
+            },
+            {
+              'dataId': 26014,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 1532000000.0,
+                'fmt': '1.53B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyGrossProfit'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyGrossProfit': [
+            {
+              'dataId': 20046,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 5144000000.0,
+                'fmt': '5.14B'
+              }
+            },
+            {
+              'dataId': 20046,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 2845000000.0,
+                'fmt': '2.85B'
+              }
+            },
+            {
+              'dataId': 20046,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 2286000000.0,
+                'fmt': '2.29B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyCurrentLiabilities'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyCurrentLiabilities': [
+            {
+              'dataId': 23047,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 21735000000.0,
+                'fmt': '21.73B'
+              }
+            },
+            {
+              'dataId': 23047,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 20150000000.0,
+                'fmt': '20.15B'
+              }
+            },
+            {
+              'dataId': 23047,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 21787000000.0,
+                'fmt': '21.79B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyTotalRevenue'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyTotalRevenue': [
+            {
+              'dataId': 20100,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 40917000000.0,
+                'fmt': '40.92B'
+              }
+            },
+            {
+              'dataId': 20100,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 36255000000.0,
+                'fmt': '36.26B'
+              }
+            },
+            {
+              'dataId': 20100,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 32706000000.0,
+                'fmt': '32.71B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyTotalLiabilitiesNetMinorityInterest'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyTotalLiabilitiesNetMinorityInterest': [
+            {
+              'dataId': 23259,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 57171000000.0,
+                'fmt': '57.17B'
+              }
+            },
+            {
+              'dataId': 23259,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 54588000000.0,
+                'fmt': '54.59B'
+              }
+            },
+            {
+              'dataId': 23259,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 55757000000.0,
+                'fmt': '55.76B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyTotalNonCurrentAssets'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyTotalNonCurrentAssets': [
+            {
+              'dataId': 23226,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 53694000000.0,
+                'fmt': '53.69B'
+              }
+            },
+            {
+              'dataId': 23226,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 53856000000.0,
+                'fmt': '53.86B'
+              }
+            },
+            {
+              'dataId': 23226,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 54268000000.0,
+                'fmt': '54.27B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyCashFlowFromContinuingFinancingActivities'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyCashFlowFromContinuingFinancingActivities': [
+            {
+              'dataId': 26008,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': -3411000000.0,
+                'fmt': '-3.41B'
+              }
+            },
+            {
+              'dataId': 26008,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': -3169000000.0,
+                'fmt': '-3.17B'
+              }
+            },
+            {
+              'dataId': 26008,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': -2977000000.0,
+                'fmt': '-2.98B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyCurrentAssets'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyCurrentAssets': [
+            {
+              'dataId': 23044,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 36275000000.0,
+                'fmt': '36.27B'
+              }
+            },
+            {
+              'dataId': 23044,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 32131000000.0,
+                'fmt': '32.13B'
+              }
+            },
+            {
+              'dataId': 23044,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 31260000000.0,
+                'fmt': '31.26B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyNetIncome'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyNetIncome': [
+            {
+              'dataId': 20091,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 3280000000.0,
+                'fmt': '3.28B'
+              }
+            },
+            {
+              'dataId': 20091,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 1451000000.0,
+                'fmt': '1.45B'
+              }
+            },
+            {
+              'dataId': 20091,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 937000000.0,
+                'fmt': '937.00M'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyEBIT'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyEBIT': [
+            {
+              'dataId': 20189,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 4955000000.0,
+                'fmt': '4.96B'
+              }
+            },
+            {
+              'dataId': 20189,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 2602000000.0,
+                'fmt': '2.60B'
+              }
+            },
+            {
+              'dataId': 20189,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 1934000000.0,
+                'fmt': '1.93B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyRetainedEarnings'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyRetainedEarnings': [
+            {
+              'dataId': 23204,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 33424000000.0,
+                'fmt': '33.42B'
+              }
+            },
+            {
+              'dataId': 23204,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 34562000000.0,
+                'fmt': '34.56B'
+              }
+            },
+            {
+              'dataId': 23204,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 35199000000.0,
+                'fmt': '35.20B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyTotalAssets'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyTotalAssets': [
+            {
+              'dataId': 23220,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 89969000000.0,
+                'fmt': '89.97B'
+              }
+            },
+            {
+              'dataId': 23220,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 85987000000.0,
+                'fmt': '85.99B'
+              }
+            },
+            {
+              'dataId': 23220,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 85528000000.0,
+                'fmt': '85.53B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyStockholdersEquity'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyStockholdersEquity': [
+            {
+              'dataId': 23215,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 25862000000.0,
+                'fmt': '25.86B'
+              }
+            },
+            {
+              'dataId': 23215,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 24404000000.0,
+                'fmt': '24.40B'
+              }
+            },
+            {
+              'dataId': 23215,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 22922000000.0,
+                'fmt': '22.92B'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyTotalNonCurrentLiabilitiesNetMinorityInterest'
+            ]
+          },
+          'timestamp': [
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyTotalNonCurrentLiabilitiesNetMinorityInterest': [
+            {
+              'dataId': 23260,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 35436000000.0,
+                'fmt': '35.44B'
+              }
+            },
+            {
+              'dataId': 23260,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 34438000000.0,
+                'fmt': '34.44B'
+              }
+            },
+            {
+              'dataId': 23260,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 33970000000.0,
+                'fmt': '33.97B'
+              }
+            }
+          ]
+        }
+      ],
+      'error': None
+    }
+  },
+  'fScore': {
+    'timeseries': {
+      'result': [
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyNetIncome'
+            ]
+          },
+          'timestamp': [
+            1672444800,
+            1680220800,
+            1688083200,
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyNetIncome': [
+            None,
+            {
+              'dataId': 20091,
+              'asOfDate': '2023-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 2724000000.0,
+                'fmt': '2.72B'
+              }
+            },
+            {
+              'dataId': 20091,
+              'asOfDate': '2023-06-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 2226000000.0,
+                'fmt': '2.23B'
+              }
+            },
+            {
+              'dataId': 20091,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 3280000000.0,
+                'fmt': '3.28B'
+              }
+            },
+            {
+              'dataId': 20091,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 1451000000.0,
+                'fmt': '1.45B'
+              }
+            },
+            {
+              'dataId': 20091,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 937000000.0,
+                'fmt': '937.00M'
+              }
+            }
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'annualOperatingCashFlow'
+            ]
+          },
+          'timestamp': [
+            1672444800,
+            1680220800,
+            1688083200,
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'annualOperatingCashFlow': [
+            {
+              'dataId': 26014,
+              'asOfDate': '2022-12-31',
+              'periodType': '12M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 16361000000.0,
+                'fmt': '16.36B'
+              }
+            },
+            None,
+            None,
+            None,
+            {
+              'dataId': 26014,
+              'asOfDate': '2023-12-31',
+              'periodType': '12M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 14117000000.0,
+                'fmt': '14.12B'
+              }
+            },
+            None
+          ]
+        },
+        {
+          'meta': {
+            'symbol': [
+              'MPC'
+            ],
+            'type': [
+              'quarterlyTotalAssets'
+            ]
+          },
+          'timestamp': [
+            1672444800,
+            1680220800,
+            1688083200,
+            1696032000,
+            1703980800,
+            1711843200
+          ],
+          'quarterlyTotalAssets': [
+            None,
+            {
+              'dataId': 23220,
+              'asOfDate': '2023-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 87037000000.0,
+                'fmt': '87.04B'
+              }
+            },
+            {
+              'dataId': 23220,
+              'asOfDate': '2023-06-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 86442000000.0,
+                'fmt': '86.44B'
+              }
+            },
+            {
+              'dataId': 23220,
+              'asOfDate': '2023-09-30',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 89969000000.0,
+                'fmt': '89.97B'
+              }
+            },
+            {
+              'dataId': 23220,
+              'asOfDate': '2023-12-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 85987000000.0,
+                'fmt': '85.99B'
+              }
+            },
+            {
+              'dataId': 23220,
+              'asOfDate': '2024-03-31',
+              'periodType': '3M',
+              'currencyCode': 'USD',
+              'reportedValue': {
+                'raw': 85528000000.0,
+                'fmt': '85.53B'
+              }
+            }
+          ]
+        }
+      ],
+      'error': None
+    }
+  }
+}
